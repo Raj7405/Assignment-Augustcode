@@ -1,0 +1,36 @@
+body {
+    padding-top: 60px;
+    background-color: #212121;
+    color: beige;
+  }
+
+.nav{
+    background-color: black;
+}
+
+#nav-bar{
+    background-color: bisque;
+    color: #212121;
+}
+
+.text-color {
+    color: #212121 !important;
+}
+
+.jumbotron {
+    background-color: #2b2a2a;
+  }
+
+.social-links a {
+    text-decoration: none;
+    color: bisque;
+}
+
+.btn {
+    background-color: bisque;
+    color: #212121;
+}
+
+.btn:hover{
+    background-color: rgb(246, 246, 226);
+}
